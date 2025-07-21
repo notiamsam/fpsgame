@@ -1,7 +1,7 @@
 # FPS Game
 
 A first-person shooter game inspired by the classic DOOM, built using Python and Pygame.
-- By Kunal Chauhan and Madhav Ahuja
+- By Sahil Sundriyal
 
 ## Screenshots
 
